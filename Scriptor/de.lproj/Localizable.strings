@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  Scriptor
+
+  Created by Bryan Stober on 1/11/14.
+  Copyright (c) 2014 Bryan Stober. All rights reserved.
+*/
+"alert_error_title"="Fehler";
+"alert_error_message"="Speichern nicht möglich";
+"intro_vc_intro_text"="Bitte fügen Sie eine neue Projektmappe mit der Taste + auf der linken Seite und geben Sie Ihrer Website einen Titel. Wählen Sie ein neues Projekt beginnen und bearbeiten Sie Ihren Text und wenn Sie bereit sind, um eine Live-Ansicht des Codes drücken Sie die Play-Taste in der oberen rechten haben. Sie können eine beliebige Auswahl von Frameworks, indem Sie ein Projekt, und drücken Sie dann die Taste + Bearbeiten Framworks hinzufügen.";
+"intro_vc_intro_title"="Willkommen auf Scriptor";
+"master_vc_congrats_alert"="Gratulation";
+"master_vc_successfully_removed"="Erfolgreich entfernt";
+"master_vc_ok"="ok";
+"master_vc_sorry_alert"="Es tut uns leid!";
+"master_vc_failed_alert"="Fehler beim Erstellen eines neuen Ordners ...";
+"detail_vc_email_subject"="Scriptor Projektpaket";
+"deatil_vc_email_body"="Mein Scriptor Projektpaket";
+"detail_vc_mail"="Post";
+"detaild_vc_mail_cancelled"="Ergebnis: Mail Senden abgesagt";
+"detaild_vc_mail_saved"="Ergebnis: Mail gespeichert";
+"detaild_vc_mail_sent"="Ergebnis: Mail geschickt";
+"detaild_vc_mail_failed"="Ergebnis: Mail Versand fehlgeschlage";
+"detaild_vc_mail_not_sent"="Ergebnis: Als E-Mail nicht gesendet";
+"html_vc_error_alert_title"="Skriptfehler";
+"html_vc_error_alert_message"="Script-Tags wurden verändert! Bitte nutzen die Rahmenbedingungen Auswahl-Seite hinzufügen und entfernen Skripte. Fühlen Sie sich frei, Sie Script-Tags, so lange sie vor oder nach der aktuellen Script-Tags von Scriptor bereitgestellt kommen hinzu. Die Skripte werden wieder eingesetzt werden ...";
+"master_vc_new_project_name_icloud"="New iCloud-Projekt";
+"master_vc_new_project_name"="Neues Projekt";
+"stack_manager_alert_file_exist_title"="iCloud-Datei vorhanden";
+"stack_manager_alert_file_exist_message"="Möchten Sie die Daten auf dem Gerät mit den bestehenden iCloud-Daten zusammenführen?";
+"stack_manager_alert_file_exist_button_no"="Nicht";
+"stack_manager_alert_file_exist_button_yes"="Ja";
+
+"stack_manager_vc_alert_store_moved"="Bitte warten Sie einen neuen Shop erstellt werden.";
+"stack_manager_alert_title_store_moved"="Shop Datei entfernt wurde";
+"stack_manager_alert_icloud_sign-out_title"="iCloud Sign-Out";
+"stack_manager_alert_icloud_sign-out_button"="OK";
+"stack_manager_alert_migration_icloud_message"="Bitte warten Sie, während Dateien werden migriert %@ iCloud";
+"stack_manager_alert_migration_icloud_title"="Datei-Migration im Gange";
+
+"stack_manager_alert_icloud_choice_title"="Wählen Sie Storage Option";
+"stack_manager_alert_icloud_choice_message"="Sollten Dokumente in iCloud oder nur auf diesem Gerät gespeichert werden?";
+"stack_manager_alert_icloud_choice_button_1"="Nur Lokal";
+"stack_manager_alert_icloud_choice_button_2"="iCloud";
+"stack_master_alert_icloud_disabled_title"="Sie sind nicht mit iCloud";
+"stack_master_alert_icloud_disabled_message"="Was würden Sie mit Dokumenten, die derzeit auf diesem Telefon tun?";
+"stack_master_alert_icloud_disabled_button_1"="Halten Sie mit iCloud";
+"stack_master_alert_icloud_disabled_button_2"="Halten Sie sich auf Ihr iPad";
+"stack_master_alert_icloud_disabled_button_3"="Löschen von iPad";
+"project"="Project";
+"details_vc_alert_title_mail_sent"="E-Mail geschickt!";
+"details_vc_alert_title_message_sent"="Nachricht wurde gesendet!";
+"details_vc_alert_title_airdrop_sent"="AirDrop geschickt!";
+"detail_vc_alert_title_project_zip"="Projekt-Zip";
+"detail_vc_alert_message_project_zip"="Fehler beim Zippen dieses Projekt!";
+"settings_vc_alert_title_backup"="Sicherung erfolgreich";
+"settings_vc_alert_message_backup"="Ihre Daten wurden gesichert";
+"ftppopover_untitled"="Untitled";
+"valid_url"="Sie dieses Bild erfolgreich importiert";
+"not_valid_url"="Dies ist keine gültige URL!";
+"image_import_alert_title"="Bildimport";
+"no_image"="Dies tut url liefern ein Bild ...";
+"image_url_label"="Bild-URL:";

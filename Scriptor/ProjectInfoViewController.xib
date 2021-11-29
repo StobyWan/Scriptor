@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="4514" systemVersion="13B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3747"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ProjectInfoViewController">
+            <connections>
+                <outlet property="editButton" destination="AFH-wb-MtX" id="sqA-xo-6ta"/>
+                <outlet property="tableView" destination="Wn9-o7-PSD" id="9GU-vi-WtR"/>
+                <outlet property="view" destination="1" id="3"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="226"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="FEr-bN-yu6">
+                    <rect key="frame" x="0.0" y="182" width="320" height="44"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                    <items>
+                        <barButtonItem title="Edit" id="AFH-wb-MtX">
+                            <connections>
+                                <action selector="setEditingAction:" destination="-1" id="uvr-SD-NxM"/>
+                            </connections>
+                        </barButtonItem>
+                    </items>
+                </toolbar>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="Wn9-o7-PSD">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="182"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="qeZ-gS-XMS"/>
+                        <outlet property="delegate" destination="-1" id="4py-KS-bdy"/>
+                    </connections>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="FEr-bN-yu6" secondAttribute="bottom" id="1x0-WS-FVC"/>
+                <constraint firstItem="Wn9-o7-PSD" firstAttribute="top" secondItem="1" secondAttribute="top" id="2Pg-cp-jN2"/>
+                <constraint firstItem="Wn9-o7-PSD" firstAttribute="trailing" secondItem="FEr-bN-yu6" secondAttribute="trailing" id="SmQ-jK-zLG"/>
+                <constraint firstItem="Wn9-o7-PSD" firstAttribute="leading" secondItem="FEr-bN-yu6" secondAttribute="leading" id="YVp-C8-Rxe"/>
+                <constraint firstAttribute="trailing" secondItem="Wn9-o7-PSD" secondAttribute="trailing" id="vmq-fv-hJZ"/>
+                <constraint firstItem="Wn9-o7-PSD" firstAttribute="bottom" secondItem="FEr-bN-yu6" secondAttribute="bottom" constant="-44" id="vyD-fS-g66"/>
+                <constraint firstItem="Wn9-o7-PSD" firstAttribute="leading" secondItem="1" secondAttribute="leading" id="ywT-eY-v3b"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3401" systemVersion="13B42" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="File" representedClassName="File" syncable="YES">
+        <attribute name="data" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="timestamp" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="project" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Project" inverseName="files" inverseEntity="Project" syncable="YES"/>
+    </entity>
+    <entity name="Framework" representedClassName="Framework" syncable="YES">
+        <attribute name="activeVersion" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="heirarchy" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="imageName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isActive" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="site" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="snippet" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="timeStamp" optional="YES" attributeType="Date" syncable="YES"/>
+        <relationship name="project" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Project" inverseName="frameworks" inverseEntity="Project" syncable="YES"/>
+        <relationship name="versions" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Version" inverseName="framework" inverseEntity="Version" syncable="YES"/>
+    </entity>
+    <entity name="Image" representedClassName="Image" syncable="YES">
+        <attribute name="imageData" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
+        <attribute name="imageName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageType" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <relationship name="project" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="Project" inverseName="images" inverseEntity="Project" syncable="YES"/>
+    </entity>
+    <entity name="Project" representedClassName="Project">
+        <attribute name="findTags" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="folderId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isNewScript" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="lastModified" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="scriptTags" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="timeStamp" optional="YES" attributeType="Date">
+            <userInfo/>
+        </attribute>
+        <relationship name="files" optional="YES" toMany="YES" minCount="3" maxCount="3" deletionRule="Cascade" destinationEntity="File" inverseName="project" inverseEntity="File" syncable="YES"/>
+        <relationship name="frameworks" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Framework" inverseName="project" inverseEntity="Framework" syncable="YES"/>
+        <relationship name="images" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Image" inverseName="project" inverseEntity="Image" syncable="YES"/>
+        <userInfo/>
+    </entity>
+    <entity name="Version" representedClassName="Version" syncable="YES">
+        <attribute name="number" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="framework" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Framework" inverseName="versions" inverseEntity="Framework" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="File" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Framework" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Image" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Project" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Version" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>

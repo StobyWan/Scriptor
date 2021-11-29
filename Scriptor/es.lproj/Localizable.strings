@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  Scriptor
+
+  Created by Bryan Stober on 1/11/14.
+  Copyright (c) 2014 Bryan Stober. All rights reserved.
+*/
+"alert_error_title"="Error";
+"alert_error_message"="No se puede guardar";
+"intro_vc_intro_text"="Por favor, añada una nueva carpeta de proyecto con el botón + en la parte izquierda y darle a su sitio un título. Seleccione su nuevo proyecto y comenzar a editar el texto y cuando esté listo para tener una visión en directo de su código pulse el botón de reproducción en la parte superior derecha. Usted puede agregar cualquier variedad de marcos al seleccionar un proyecto y luego pulsando el botón + Edit Framworks.";
+"intro_vc_intro_title"="Bienvenido a Scriptor";
+"master_vc_congrats_alert"="¡Felicidades";
+"master_vc_successfully_removed"="eliminado con éxito";
+"master_vc_ok"="bueno";
+"master_vc_sorry_alert"="¡Lo siento!";
+"master_vc_failed_alert"="No se pudo crear una nueva carpeta ...";
+"detail_vc_email_subject"="Scriptor Paquete de Proyectos";
+"deatil_vc_email_body"="Mi Scriptor Paquete de Proyectos";
+"detail_vc_mail"="Correo";
+"detaild_vc_mail_cancelled"="Resultado: Mail enviar cancelado";
+"detaild_vc_mail_saved"="Resultado: Mail ahorrado";
+"detaild_vc_mail_sent"="Resultado: El correo enviado";
+"detaild_vc_mail_failed"="Falló al enviar correo: Resultado";
+"detaild_vc_mail_not_sent"="Resultado: El correo no enviado";
+"html_vc_error_alert_title"="Error de secuencias de comandos";
+"html_vc_error_alert_message"="Etiquetas de secuencias de comandos se han alterado! Por favor utilice la página de selección de marcos para añadir o quitar guiones. Siéntase libre de agregarle etiquetas script propios, siempre y cuando ellos vienen antes o después de las etiquetas de secuencia de comandos actuales proporcionadas por Scriptor. Los scripts se reinsertan ...";
+"master_vc_new_project_name_icloud"="Nuevo Proyecto iCloud";
+"master_vc_new_project_name"="Nuevo Proyecto";
+"stack_manager_alert_file_exist_title"="Archivo Existe iCloud";
+"stack_manager_alert_file_exist_message"="¿Quiere combinar los datos en este dispositivo con los datos de iCloud existentes?";
+"stack_manager_alert_file_exist_button_no"="No";
+"stack_manager_alert_file_exist_button_yes"="Sí";
+
+"stack_manager_vc_alert_store_moved"="Espere a que una nueva tienda que se creará.";
+"stack_manager_alert_title_store_moved"="Almacenar archivo se ha eliminado";
+"stack_manager_alert_icloud_sign-out_title"="iCloud Sign-Out";
+"stack_manager_alert_icloud_sign-out_button"="Bueno";
+"stack_manager_alert_migration_icloud_message"="Por favor espere mientras sus archivos se migrarán %@ iCloud";
+"stack_manager_alert_migration_icloud_title"="La migración de archivos en curso";
+
+"stack_manager_alert_icloud_choice_title"="Elija la opción de almacenamiento";
+"stack_manager_alert_icloud_choice_message"="En caso de que los documentos se almacenarán en iCloud o en sólo este dispositivo?";
+"stack_manager_alert_icloud_choice_button_1"="Sólo Local";
+"stack_manager_alert_icloud_choice_button_2"="iCloud";
+"stack_master_alert_icloud_disabled_title"="Usted no está usando iCloud";
+"stack_master_alert_icloud_disabled_message"="¿Qué le gustaría hacer con los documentos actualmente en este iPad?";
+"stack_master_alert_icloud_disabled_button_1"="Siga usando iCloud";
+"stack_master_alert_icloud_disabled_button_2"="Mantener en mi iPad";
+"stack_master_alert_icloud_disabled_button_3"="Borrar de mi iPad";
+"project"="Proyecto";
+"details_vc_alert_title_mail_sent"="Correo enviado!";
+"details_vc_alert_title_message_sent"="Mensaje enviado!";
+"details_vc_alert_title_airdrop_sent"="Lanzamiento desde el aire enviado!";
+"detail_vc_alert_title_project_zip"="Proyecto Zip";
+"detail_vc_alert_message_project_zip"="Ocurrió un error al Comprimir este proyecto!";
+"settings_vc_alert_title_backup"="Respaldo exitoso";
+"settings_vc_alert_message_backup"="Sus datos han sido respaldados";
+"ftppopover_untitled"="Intitulado";
+"valid_url"="Importó éxito esta imagen";
+"not_valid_url"="Esto no es una URL válida!";
+"image_import_alert_title"="Importar imagen";
+"no_image"="Esta URL suministrar una imagen ...";
+"image_url_label"="URL de la imagen:";

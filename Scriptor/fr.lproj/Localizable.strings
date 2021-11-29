@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  Scriptor
+
+  Created by Bryan Stober on 1/11/14.
+  Copyright (c) 2014 Bryan Stober. All rights reserved.
+*/
+"alert_error_title"="Erreur";
+"alert_error_message"="Impossible d'enregistrer";
+"intro_vc_intro_text"="S'il vous plaît ajouter un nouveau dossier de projet en utilisant le bouton + sur le côté gauche et donner à votre site un titre. Sélectionnez votre nouveau projet et commencer à éditer votre texte et lorsque vous êtes prêt à avoir une vue en temps réel de votre code, appuyez sur le bouton de lecture dans le coin supérieur droit. Vous pouvez ajouter n'importe quel assortiment de cadres en sélectionnant un projet et puis en appuyant sur le bouton + Edit Framworks.";
+"intro_vc_intro_title"="Bienvenue à Scriptor";
+"master_vc_congrats_alert"="Félicitations";
+"master_vc_successfully_removed"="réussi à retirer";
+"master_vc_ok"="ok";
+"master_vc_sorry_alert"="Désolé!";
+"master_vc_failed_alert"="Impossible de créer un nouveau dossier ...";
+"detail_vc_email_subject"="Scriptor paquet projet";
+"deatil_vc_email_body"="Mon Scriptor paquet projet";
+"detail_vc_mail"="courrier";
+"detaild_vc_mail_cancelled"="Résultat: Envoi du courrier d'annulation";
+"detaild_vc_mail_saved"="Résultat: Mail enregistré";
+"detaild_vc_mail_sent"="Résultat: Le courrier envoyé";
+"detaild_vc_mail_failed"="Résultat: Mail envoi a échoué";
+"detaild_vc_mail_not_sent"="Résultat: Postez pas envoyé";
+"html_vc_error_alert_title"="Erreur de script";
+"html_vc_error_alert_message"="Les balises de script ont été modifiés! S'il vous plaît utiliser la page de sélection des cadres d'ajouter et de supprimer des scripts. N'hésitez pas à vous ajouter des balises de script propres tant qu'ils viennent avant ou après les balises de script courants fournis par Scriptor. Les scripts seront réinsérés ...";
+"master_vc_new_project_name_icloud"="Nouveau Projet iCloud";
+"master_vc_new_project_name"="Nouveau Projet";
+"stack_manager_alert_file_exist_title"="iCloud fichier existe";
+"stack_manager_alert_file_exist_message"="Voulez-vous fusionner les données sur cet appareil avec les données existantes iCloud?";
+"stack_manager_alert_file_exist_button_no"="Aucun";
+"stack_manager_alert_file_exist_button_yes"="Oui";
+
+"stack_manager_vc_alert_store_moved"="S'il vous plaît attendre pour un nouveau magasin à créer.";
+"stack_manager_alert_title_store_moved"="Fichier de magasin a été supprimé";
+"stack_manager_alert_icloud_sign-out_title"="iCloud Sign-Out";
+"stack_manager_alert_icloud_sign-out_button"="Bien";
+"stack_manager_alert_migration_icloud_message"="S'il vous plaît patienter pendant que vos fichiers migrés %@ iCloud";
+"stack_manager_alert_migration_icloud_title"="La migration des fichiers en cours";
+
+"stack_manager_alert_icloud_choice_title"="Choisissez l'option de stockage";
+"stack_manager_alert_icloud_choice_message"="Documents doivent être stockés dans iCloud ou sur tout ce dispositif?";
+"stack_manager_alert_icloud_choice_button_1"="Local Uniquement";
+"stack_manager_alert_icloud_choice_button_2"="iCloud";
+"stack_master_alert_icloud_disabled_title"="Vous n'êtes pas en utilisant iCloud";
+"stack_master_alert_icloud_disabled_message"="Que voulez-vous faire avec les documents actuellement sur ce téléphone?";
+"stack_master_alert_icloud_disabled_button_1"="Continuez à utiliser iCloud";
+"stack_master_alert_icloud_disabled_button_2"="Gardez sur mon iPad";
+"stack_master_alert_icloud_disabled_button_3"="Supprimer de mon iPad";
+"project"="Projet";
+"details_vc_alert_title_mail_sent"="Courrier envoyé!";
+"details_vc_alert_title_message_sent"="Message envoyé!";
+"details_vc_alert_title_airdrop_sent"="Parachutage envoyé!";
+"detail_vc_alert_title_project_zip"="Projet Postal";
+"detail_vc_alert_message_project_zip"="Une erreur est survenue lors Compresser ce projet!";
+"settings_vc_alert_title_backup"="Sauvegarde Réussie";
+"settings_vc_alert_message_backup"="Vos données ont été sauvegardées";
+"ftppopover_untitled"="Untitled";
+"valid_url"="Vous avez importé avec succès cette image";
+"not_valid_url"="Ceci n'est pas une URL valide!";
+"image_import_alert_title"="Importation d'images";
+"no_image"="Cette URL ne fournir une image ...";
+"image_url_label"="URL de l'image:";

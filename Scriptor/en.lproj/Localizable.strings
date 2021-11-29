@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  Scriptor
+
+  Created by Bryan Stober on 1/11/14.
+  Copyright (c) 2014 Bryan Stober. All rights reserved.
+*/
+"alert_error_title"="Error";
+"alert_error_message"="Unable to save";
+"intro_vc_intro_text"="Please add a new project folder using the + button on the left side and give your site a title. Select your new project and begin editing your text and when you are ready to have a live view of your code press the play button in the upper right. You can add any assortment of frameworks by selecting a project and then pressing the + Edit Framworks Button.";
+"intro_vc_intro_title"="Welcome to Scriptor";
+"master_vc_congrats_alert"="Congratulations";
+"master_vc_successfully_removed"="Successfully removed";
+"master_vc_ok"="ok";
+"master_vc_sorry_alert"="Sorry!";
+"master_vc_failed_alert"="Failed to create a new folder...";
+"detail_vc_email_subject"="Scriptor Project Package";
+"deatil_vc_email_body"="My Scriptor Project Package";
+"detail_vc_mail"="Mail";
+"detaild_vc_mail_cancelled"="Result: Mail sending canceled";
+"detaild_vc_mail_saved"="Result: Mail saved";
+"detaild_vc_mail_sent"="Result: Mail sent";
+"detaild_vc_mail_failed"="Result: Mail sending failed";
+"detaild_vc_mail_not_sent"="Result: Mail not sent";
+"html_vc_error_alert_title"="Script Error";
+"html_vc_error_alert_message"="Script tags have been altered! Please utilize the frameworks selection page to add and remove scripts. Feel free to add you own script tags as long as they come before or after the current script tags provided by Scriptor. The scripts will be reinserted...";
+"master_vc_new_project_name_icloud"="New iCloud Project";
+"master_vc_new_project_name"="New Project";
+"stack_manager_alert_file_exist_title"="iCloud file exists";
+"stack_manager_alert_file_exist_message"="Do you want to merge the data on this device with the existing iCloud data?";
+"stack_manager_alert_file_exist_button_no"="No";
+"stack_manager_alert_file_exist_button_yes"="Yes";
+
+"stack_manager_vc_alert_store_moved"="Please wait for a new store to be created.";
+"stack_manager_alert_title_store_moved"="Store file has been removed";
+"stack_manager_alert_icloud_sign-out_title"="iCloud Sign-Out";
+"stack_manager_alert_icloud_sign-out_button"="OK";
+"stack_manager_alert_migration_icloud_message"="Please wait while your files get migrated %@ iCloud";
+"stack_manager_alert_migration_icloud_title"="File migration in progress";
+
+"stack_manager_alert_icloud_choice_title"="Choose Storage Option";
+"stack_manager_alert_icloud_choice_message"="Should documents be stored in iCloud or on just this device?";
+"stack_manager_alert_icloud_choice_button_1"="Local only";
+"stack_manager_alert_icloud_choice_button_2"="iCloud";
+"stack_master_alert_icloud_disabled_title"="You're not using iCloud";
+"stack_master_alert_icloud_disabled_message"="What would you like to do with documents currently on this phone?";
+"stack_master_alert_icloud_disabled_button_1"="Keep using iCloud";
+"stack_master_alert_icloud_disabled_button_2"="Keep on My iPad";
+"stack_master_alert_icloud_disabled_button_3"="Delete from My iPad";
+"project"="Project";
+"details_vc_alert_title_mail_sent"="Mail sent!";
+"details_vc_alert_title_message_sent"="Message sent!";
+"details_vc_alert_title_airdrop_sent"="AirDrop sent!";
+"detail_vc_alert_title_project_zip"="Project Zip";
+"detail_vc_alert_message_project_zip"="An Error Occurred While Zipping this Project!";
+"settings_vc_alert_title_backup"="Backup Successful";
+"settings_vc_alert_message_backup"="Your data has been backed up";
+"ftppopover_untitled"="Untitled";
+"valid_url"="You successfully imported this image";
+"not_valid_url"="This is not a valid URL!";
+"image_import_alert_title"="Image Import";
+"no_image"="This url does supply an image...";
+"image_url_label"="Image URL:";

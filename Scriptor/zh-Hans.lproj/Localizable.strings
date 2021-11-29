@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  Scriptor
+
+  Created by Bryan Stober on 1/11/14.
+  Copyright (c) 2014 Bryan Stober. All rights reserved.
+*/
+"alert_error_title"="错误";
+"alert_error_message"="无法保存";
+"intro_vc_intro_text"="请添加使用左侧的+按钮一个新的项目文件夹，让您的网站标题。选择您的新项目，并开始编辑你的文字，当你准备好让你的代码按播放键的实时视图的右上方。您可以通过选择一个项目，然后按下+编辑Framworks按钮添加框架的任何品种。";
+"intro_vc_intro_title"="欢迎Scriptor";
+"master_vc_congrats_alert"="祝贺您";
+"master_vc_successfully_removed"="成功删除";
+"master_vc_ok"="行";
+"master_vc_sorry_alert"="对不起!";
+"master_vc_failed_alert"="无法创建一个新的文件夹...";
+"detail_vc_email_subject"="Scriptor项目包";
+"deatil_vc_email_body"="我Scriptor项目包装";
+"detail_vc_mail"="邮件";
+"detaild_vc_mail_cancelled"="结果：邮件发送取消";
+"detaild_vc_mail_saved"="结果：邮件保存";
+"detaild_vc_mail_sent"="结果：发送邮件";
+"detaild_vc_mail_failed"="结果：邮件发送失败";
+"detaild_vc_mail_not_sent"="R结果：邮件没有发送";
+"html_vc_error_alert_title"="脚本错误";
+"html_vc_error_alert_message"="脚本标记已经改变！请利用框架选择页面添加和删除脚本。随意，只要他们来之前或Scriptor提供的当前脚本标签后添加你自己的脚本标签。该脚本将被重新插入...";
+"master_vc_new_project_name_icloud"="新的iCloud项目";
+"master_vc_new_project_name"="新项目";
+"stack_manager_alert_file_exist_title"="icloud的文件存在";
+"stack_manager_alert_file_exist_message"="你要与现有的iCloud数据合并在此设备上的数据？";
+"stack_manager_alert_file_exist_button_no"="无";
+"stack_manager_alert_file_exist_button_yes"="是的";
+
+"stack_manager_vc_alert_store_moved"="请等待要创建一个新的商店。";
+"stack_manager_alert_title_store_moved"="存储文件已被删除";
+"stack_manager_alert_icloud_sign-out_title"="iCloud的注册日期";
+"stack_manager_alert_icloud_sign-out_button"="行";
+"stack_manager_alert_migration_icloud_message"="请稍等，您的文件被迁移 ％@ 的iCloud";
+"stack_manager_alert_migration_icloud_title"="正在进行文件迁移";
+
+"stack_manager_alert_icloud_choice_title"="选择存储选项";
+"stack_manager_alert_icloud_choice_message"="文件应该被保存在iCloud中，或只是在此设备上？";
+"stack_manager_alert_icloud_choice_button_1"="仅限本地";
+"stack_manager_alert_icloud_choice_button_2"="iCloud";
+"stack_master_alert_icloud_disabled_title"="你不使用的iCloud";
+"stack_master_alert_icloud_disabled_message"="请问您喜欢做的是单据，目前这款手机吗？";
+"stack_master_alert_icloud_disabled_button_1"="继续使用的iCloud";
+"stack_master_alert_icloud_disabled_button_2"="继续我的iPad";
+"stack_master_alert_icloud_disabled_button_3"="从我的iPad中删除";
+"project"="项目";
+"details_vc_alert_title_mail_sent"="邮件已发送!";
+"details_vc_alert_title_message_sent"="消息已发出！";
+"details_vc_alert_title_airdrop_sent"="空投送！";
+"detail_vc_alert_title_project_zip"="项目邮编";
+"detail_vc_alert_message_project_zip"="时发生错误荏苒这个项目！";
+"settings_vc_alert_title_backup"="备份成功的";
+"settings_vc_alert_message_backup"="您的数据已经备份";
+"ftppopover_untitled"="无题";
+"valid_url"="你成功导入这个图片";
+"not_valid_url"="这不是一个有效的 URL！";
+"image_import_alert_title"="图像导入";
+"no_image"="这个网址确实提供图像...";
+"image_url_label"="图片网址:";

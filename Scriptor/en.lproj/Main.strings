@@ -1,0 +1,147 @@
+
+/* Class = "IBUITextField"; placeholder = "Enter Title"; ObjectID = "3Oe-BX-xdn"; */
+"3Oe-BX-xdn.placeholder" = "Enter Title";
+
+/* Class = "IBUITextField"; text = "New iCloud Project"; ObjectID = "3Oe-BX-xdn"; */
+"3Oe-BX-xdn.text" = "New iCloud Project";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "4vF-y7-RQf"; */
+"4vF-y7-RQf.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "4vs-5J-hQX"; */
+"4vs-5J-hQX.text" = "Label";
+
+/* Class = "IBUITableViewController"; title = "Master"; ObjectID = "7bK-jq-Zjz"; */
+"7bK-jq-Zjz.title" = "Master";
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "8KP-rR-elw"; */
+"8KP-rR-elw.title" = "Item";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "8pm-Xh-nTA"; */
+"8pm-Xh-nTA.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "]"; ObjectID = "Anv-a7-piM"; */
+"Anv-a7-piM.normalTitle" = "]";
+
+/* Class = "IBUIBarButtonItem"; title = "+ Add Frameworks"; ObjectID = "DHP-RE-OX3"; */
+"DHP-RE-OX3.title" = "+ Add Frameworks";
+
+/* Class = "IBUIButton"; normalTitle = ";"; ObjectID = "DtU-TN-dyt"; */
+"DtU-TN-dyt.normalTitle" = ";";
+
+/* Class = "IBUIViewController"; title = "FRAMEWORKSVIEW"; ObjectID = "DwR-UQ-Vfi"; */
+"DwR-UQ-Vfi.title" = "FRAMEWORKSVIEW";
+
+/* Class = "IBUITextView"; text = "Please add a new project folder from using the + button on the left side and give your site a title. Select your new project and begin editing your text and when you are ready to have a live view of your code press the play button in the upper right. You can add any assortment of frameworks by selecting a project and then pressing the +Add Framworks Button."; ObjectID = "ELu-bM-dgh"; */
+"ELu-bM-dgh.text" = "Please add a new project folder from using the + button on the left side and give your site a title. Select your new project and begin editing your text and when you are ready to have a live view of your code press the play button in the upper right. You can add any assortment of frameworks by selecting a project and then pressing the +Add Framworks Button.";
+
+/* Class = "IBUIButton"; normalTitle = "#"; ObjectID = "FIQ-MH-ID5"; */
+"FIQ-MH-ID5.normalTitle" = "#";
+
+/* Class = "IBUIViewController"; title = "Detail"; ObjectID = "JEX-9P-axG"; */
+"JEX-9P-axG.title" = "Detail";
+
+/* Class = "IBUIButton"; normalTitle = "&"; ObjectID = "JKt-lc-7lX"; */
+"JKt-lc-7lX.normalTitle" = "&";
+
+/* Class = "IBUIButton"; normalTitle = "\""; ObjectID = "JkP-eA-iSw"; */
+"JkP-eA-iSw.normalTitle" = "\"";
+
+/* Class = "IBUIButton"; normalTitle = "}"; ObjectID = "K17-Uh-5aN"; */
+"K17-Uh-5aN.normalTitle" = "}";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "L0U-rh-R7s"; */
+"L0U-rh-R7s.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "$"; ObjectID = "LSO-7x-GDR"; */
+"LSO-7x-GDR.normalTitle" = "$";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Lts-wV-pBk"; */
+"Lts-wV-pBk.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "!"; ObjectID = "MBI-FF-i2H"; */
+"MBI-FF-i2H.normalTitle" = "!";
+
+/* Class = "IBUISegmentedControl"; MIv-5H-caF.segmentTitles[0] = "HTML"; ObjectID = "MIv-5H-caF"; */
+"MIv-5H-caF.segmentTitles[0]" = "HTML";
+
+/* Class = "IBUISegmentedControl"; MIv-5H-caF.segmentTitles[1] = "CSS"; ObjectID = "MIv-5H-caF"; */
+"MIv-5H-caF.segmentTitles[1]" = "CSS";
+
+/* Class = "IBUISegmentedControl"; MIv-5H-caF.segmentTitles[2] = "JavaScript"; ObjectID = "MIv-5H-caF"; */
+"MIv-5H-caF.segmentTitles[2]" = "JavaScript";
+
+/* Class = "IBUIButton"; normalTitle = "\\"; ObjectID = "MOu-CL-8n7"; */
+"MOu-CL-8n7.normalTitle" = "\\";
+
+/* Class = "IBUIButton"; normalTitle = "="; ObjectID = "MpN-Me-dEC"; */
+"MpN-Me-dEC.normalTitle" = "=";
+
+/* Class = "IBUIButton"; normalTitle = "["; ObjectID = "OMa-PP-rhd"; */
+"OMa-PP-rhd.normalTitle" = "[";
+
+/* Class = "IBUIButton"; normalTitle = "/"; ObjectID = "Ot4-l3-iH9"; */
+"Ot4-l3-iH9.normalTitle" = "/";
+
+/* Class = "IBUIButton"; normalTitle = "*"; ObjectID = "QJz-tX-FFI"; */
+"QJz-tX-FFI.normalTitle" = "*";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "QYt-Kc-oXO"; */
+"QYt-Kc-oXO.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Tz8-zg-RZJ"; */
+"Tz8-zg-RZJ.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = ":"; ObjectID = "U0c-cv-CXT"; */
+"U0c-cv-CXT.normalTitle" = ":";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "U7w-1m-7dx"; */
+"U7w-1m-7dx.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "{"; ObjectID = "UHh-hJ-kFK"; */
+"UHh-hJ-kFK.normalTitle" = "{";
+
+/* Class = "IBUINavigationItem"; title = "Projects"; ObjectID = "Zdf-7t-Un8"; */
+"Zdf-7t-Un8.title" = "Projects";
+
+/* Class = "IBUIButton"; normalTitle = ">"; ObjectID = "cz7-mT-JMN"; */
+"cz7-mT-JMN.normalTitle" = ">";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "d97-gs-JJb"; */
+"d97-gs-JJb.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = ")"; ObjectID = "euC-QW-EYD"; */
+"euC-QW-EYD.normalTitle" = ")";
+
+/* Class = "IBUIButton"; normalTitle = "("; ObjectID = "gmg-F2-pwm"; */
+"gmg-F2-pwm.normalTitle" = "(";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "hVc-OK-KrT"; */
+"hVc-OK-KrT.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "@"; ObjectID = "iFr-tc-ZUa"; */
+"iFr-tc-ZUa.normalTitle" = "@";
+
+/* Class = "IBUIButton"; normalTitle = "?"; ObjectID = "j4s-fg-FOU"; */
+"j4s-fg-FOU.normalTitle" = "?";
+
+/* Class = "IBUIButton"; normalTitle = "<"; ObjectID = "k9v-bx-Akv"; */
+"k9v-bx-Akv.normalTitle" = "<";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "lWY-3B-lZa"; */
+"lWY-3B-lZa.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "qWH-rS-ZIM"; */
+"qWH-rS-ZIM.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "sD7-ti-bg4"; */
+"sD7-ti-bg4.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "tXY-Ho-1Pt"; */
+"tXY-Ho-1Pt.title" = "Settings";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "wNH-zy-yOf"; */
+"wNH-zy-yOf.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "'"; ObjectID = "x9I-Lu-Rzc"; */
+"x9I-Lu-Rzc.normalTitle" = "'";
